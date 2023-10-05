@@ -1,0 +1,5 @@
+1. git init #initializeaza repozitoriul local
+2. faceti un repozitoriu pe github
+3. git remote add origin https://github.com/........... face legatura local& remote
+4. git add --all #adauga fisiere create in repo local
+5. git commit -m 'ceva text'
