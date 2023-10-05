@@ -3,3 +3,5 @@
 3. git remote add origin https://github.com/........... face legatura local& remote
 4. git add --all #adauga fisiere create in repo local
 5. git commit -m 'ceva text'
+6. git push #"impinge" fisierele din repo local pe remote/github
+
