@@ -5,3 +5,7 @@
 5. git commit -m 'ceva text'
 6. git push #"impinge" fisierele din repo local pe remote/github
 
+7. Pentru a actualiza remote:
+git add --all
+git commit -m 'mesaj'
+git push
