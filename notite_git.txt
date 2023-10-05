@@ -12,3 +12,5 @@ git push
 
 8. Pentru a crea "branch" nou, cum ar veni un alt feature, folosim
 git checkout -b 'versiunea_2'
+
+9. Pentru lucru in echipa, lucrati cu pull request si merge
